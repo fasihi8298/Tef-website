@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://tef.com.pk/downloads -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	  
+  <title>Downloads</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="TEF is a nonprofit organisation with a mandate to improve quality of education in Pakistan; primarily operating in the rural areas of Southern Punjab." content="Tareen Education Foundation (TEF)">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+	
+  <link rel="icon" type="image/png" href="https://tef.com.pk/images/favicon.png">
+  <!-- CSS
+================================================== -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="./Downloads_files/bootstrap.min.css">
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="./Downloads_files/all.min.css">
+  <!-- Animation -->
+  <link rel="stylesheet" href="./Downloads_files/animate.css">
+  <!-- slick Carousel -->
+  <link rel="stylesheet" href="./Downloads_files/slick.css">
+  <link rel="stylesheet" href="./Downloads_files/slick-theme.css">
+  <!-- Colorbox -->
+  <link rel="stylesheet" href="./Downloads_files/colorbox.css">
+  <!-- Template styles-->
+  <link rel="stylesheet" href="./Downloads_files/style.css">
+  
+  
+  
+    <!-- Javascript Files
+  ================================================== -->
+  <!-- initialize jQuery Library -->
+  <script src="./Downloads_files/jquery.min.js.download"></script>
+  <!-- Bootstrap jQuery -->
+  <script src="./Downloads_files/bootstrap.min.js.download" defer=""></script>
+  <!-- Slick Carousel -->
+  <script src="./Downloads_files/slick.min.js.download"></script>
+  <script src="./Downloads_files/slick-animation.min.js.download"></script>
+  <!-- Color box -->
+  <script src="./Downloads_files/jquery.colorbox.js.download"></script>
+  <!-- shuffle -->
+  <script src="./Downloads_files/shuffle.min.js.download" defer=""></script>
+  <!-- Google Map API Key-->
+  <script src="./Downloads_files/js_key_AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU.js.download" defer=""></script>
+  <!-- Google Map Plugin-->
+  <script src="./Downloads_files/map.js.download" defer=""></script>
+  <!-- Template custom -->
+  <script src="./Downloads_files/script.js.download"></script></head>
+<body>
+  <div class="body-inner">
+    <div id="top-bar" class="top-bar">
+        <div class="container">
+          <div class="row">
+              <div class="col-lg-8 col-md-8">
+                <ul class="top-info text-center text-md-left">
+                     <!-- Top info  <li><i class="fas fa-envelope-open-text"></i> <p class="info-text"></p>
+                    </li>end -->
+                </ul>
+              </div>
+              <!--/ Top info end -->
+              <div class="col-lg-4 col-md-4 top-social text-center text-md-right">
+                <ul class="list-unstyled">
+                    <li>
+                    <a title="Harrapata" target="_BLANK" href="https://harapatta.com/">
+                          <span class="social-icon"><i class="fa fa-leaf" style="color:green;"></i></span>
+                      </a>
+					 <a title="Youtube" target="_BLANK" href="https://www.youtube.com/channel/UCqK8YfPUnBYKuQwoR900mzQ/featured">
+                          <span class="social-icon"><i class="fab fa-youtube"></i></span>
+                      </a>
+                      <a title="Facebook" target="_BLANK" href="https://web.facebook.com/TEFOfficial/">
+                          <span class="social-icon"><i class="fab fa-facebook-f"></i></span>
+                      </a>
+                      <a title="Twitter" target="_BLANK" href="https://twitter.com/TareenEducation">
+                          <span class="social-icon"><i class="fab fa-twitter"></i></span>
+                      </a>
+                      <a title="Instagram" target="_BLANK" href="https://www.instagram.com/tefpak/">
+                          <span class="social-icon"><i class="fab fa-instagram"></i></span>
+                      </a>
+                     
+                    </li>
+					<li>
+					 <button class="btn btn-success btn-sm">Donate</button>
+                     
+                    </li>
+                </ul>
+              </div>
+              <!--/ Top social end -->
+          </div>
+          <!--/ Content row end -->
+        </div>
+        <!--/ Container end -->
+    </div>
+    <!--/ Topbar end -->    <header id="header" class="header-two" style="margin-bottom: 0px;">
+  <div class="site-navigation">
+    <div class="container">
+			<div class="row">
+					  <div class="col-lg-12">
+						  <nav class="navbar navbar-expand-lg navbar-light p-0">
+							<div class="logo">
+								<a class="d-block" href="https://tef.com.pk/index">
+								  <img loading="lazy" src="./Downloads_files/logo.png" alt="">
+								</a>
+							</div><!-- logo end  Company sample -->  
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div id="navbar-collapse" class="collapse navbar-collapse">
+								<ul class="nav navbar-nav ml-auto align-items-center">
+								  <li class="nav-item dropdown active">
+									  <a href="https://tef.com.pk/downloads#" class="nav-link dropdown-toggle" data-toggle="dropdown">About Us </a>
+									  <ul class="dropdown-menu" role="menu">
+										<li><a href="https://tef.com.pk/about-us">About Us</a></li>
+										<li><a href="https://tef.com.pk/our-vision">Our Vision</a></li>
+										<li><a href="https://tef.com.pk/our-values">Our Values</a></li>
+										<li><a href="https://tef.com.pk/our-management">Our Management</a></li>
+									  </ul>
+								  </li>
+								  <li class="nav-item dropdown">
+									  <a href="https://tef.com.pk/downloads#" class="nav-link dropdown-toggle" data-toggle="dropdown">Our Initiatives </a>
+									  <ul class="dropdown-menu" role="menu">
+										<li><a href="https://tef.com.pk/index#our-programmes">All Initiatives</a></li>
+									  </ul>
+								  </li>
+								  <li class="nav-item dropdown">
+									  <a href="https://tef.com.pk/downloads#" class="nav-link dropdown-toggle" data-toggle="dropdown">Our Schools </a>
+									  <ul class="dropdown-menu" role="menu">
+										<li><a href="https://tef.com.pk/index#core-schools">Core Schools</a></li>
+										<li><a href="https://tef.com.pk/featured-schools">Featured Schools</a></li>
+									  </ul>
+								  </li>
+								  <li class="nav-item dropdown">
+									  <a href="https://tef.com.pk/downloads#" class="nav-link dropdown-toggle" data-toggle="dropdown">Follow </a>
+									  <ul class="dropdown-menu" role="menu">
+										<li><a href="https://tef.com.pk/social-gallery">Social Gallery</a></li>
+										<li><a href="https://tef.com.pk/publications">Publications</a></li>
+										<li><a href="https://harapatta.tef.com.pk/" target="_BLANK">Harrapata Magazine</a></li>
+									  </ul>
+								  </li>
+								  <li class="nav-item dropdown">
+									  <a href="https://tef.com.pk/downloads#" class="nav-link dropdown-toggle" data-toggle="dropdown">Downloads </a>
+									  <ul class="dropdown-menu" role="menu">
+										<li><a href="https://tef.com.pk/downloads">Downloads</a></li>
+										<li class="dropdown-submenu">
+											<a href="https://tef.com.pk/downloads#!" class="dropdown-toggle" data-toggle="dropdown">Books</a>
+											<ul class="dropdown-menu">
+											  <li><a href="https://tef.com.pk/ebooks">PTBB E-Books</a></li>
+											  <li><a href="https://tef.com.pk/snc-curriculum">SNC Curriculum</a></li>
+											  <li><a href="https://tef.com.pk/under-maintenance.php">SNC Books</a></li>
+											</ul>
+										</li>
+										<li><a href="https://tef.com.pk/e-certificate">e-Certificate</a></li>
+									  </ul>
+								  </li>
+								  <li class="nav-item"><a class="nav-link" href="https://tef.com.pk/contact-us">Contact Us</a></li>
+								</ul>
+							</div>
+						  </nav>
+					  </div>
+					  <!--/ Col end -->
+					</div>
+					<!--/ Row end -->
+	    </div>
+    <!--/ Container end -->
+  </div>
+  <!--/ Navigation end -->
+</header>	<div id="banner-area" class="banner-area" style="background-image:url(images/header/download.jpg)"> 
+  <div class="banner-text">
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+              <div class="banner-heading">
+              </div>
+          </div><!-- Col end -->
+        </div><!-- Row end -->
+    </div><!-- Container end -->
+  </div><!-- Banner text end -->
+</div><!-- Banner area end --> 
+
+<section id="main-container" class="main-container">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-3">  
+            <center>
+                <figure>
+                <img src="./Downloads_files/3rd-south-punjab-mathematics-contest-answer-key.jpg" class="img-thumbnail">
+                <figcaption align="center"><br><span><a href="https://tef.com.pk/downloadable/downloads/answer-key-SPMC-III-2023.pdf" target="_Blank"> <i class="fa fa-eye"></i> View</a> | <a href="https://tef.com.pk/downloadable/downloads/answer-key-SPMC-III-2023.pdf" target="_Blank"><i class="fa fa-download"></i> Download</a></span></figcaption>
+                </figure>
+            </center>
+        </div><!-- Col end -->
+        <div class="col-lg-3">  
+            <center>
+                <figure>
+                <img src="./Downloads_files/3rd-south-punjab-mathematics-contest-paper-cadet-level.jpg" class="img-thumbnail">
+                <figcaption align="center"><br><span><a href="https://tef.com.pk/downloadable/downloads/cadet-level-SPMC-III-2023.pdf" target="_Blank"> <i class="fa fa-eye"></i> View</a> | <a href="https://tef.com.pk/downloadable/downloads/cadet-level-SPMC-III-2023.pdf" target="_Blank"><i class="fa fa-download"></i> Download</a></span></figcaption>
+                </figure>
+            </center>
+        </div><!-- Col end -->
+        <div class="col-lg-3">  
+            <center>
+                <figure>
+                <img src="./Downloads_files/3rd-south-punjab-mathematics-contest-paper-junior-level.jpg" class="img-thumbnail">
+                <figcaption align="center"><br><span><a href="https://tef.com.pk/downloadable/downloads/junior-level-SPMC-III-2023.pdf" target="_Blank"> <i class="fa fa-eye"></i> View</a> | <a href="https://tef.com.pk/downloadable/downloads/junior-level-SPMC-III-2023.pdf" target="_Blank"><i class="fa fa-download"></i> Download</a></span></figcaption>
+                </figure>
+            </center>
+        </div><!-- Col end -->
+    
+        <div class="col-lg-3">  
+            <center>
+                <figure>
+                <img src="./Downloads_files/south-punjab-mathematics-contest.jpg" class="img-thumbnail">
+                <figcaption align="center"><br><span><a href="https://tef.com.pk/downloadable/downloads/SPMC-Final-Paper.pdf" target="_Blank"> <i class="fa fa-eye"></i> View</a> | <a href="https://tef.com.pk/downloadable/downloads/SPMC-Final-Paper.pdf" target="_Blank"><i class="fa fa-download"></i> Download</a></span></figcaption>
+                </figure>
+            </center>
+        </div><!-- Col end -->
+
+
+    </div><!-- Content row end -->
+    
+    <div class="row">
+        
+         <div class="col-lg-3"> 
+            <center>
+                <figure>
+                <img src="./Downloads_files/2nd-south-punjab-mathematics-contest-paper-key.jpg" class="img-thumbnail">
+                <figcaption align="center"><br><span><a href="https://tef.com.pk/downloadable/downloads/Key-SPMC-II.pdf" target="_Blank"> <i class="fa fa-eye"></i> View</a> | <a href="https://tef.com.pk/downloadable/downloads/Key-SPMC-II.pdf" target="_Blank"><i class="fa fa-download"></i> Download</a></span></figcaption>
+                </figure>
+            </center>
+        </div><!-- Col end -->
+        
+        <div class="col-lg-3"></div>
+
+    </div><!-- Content row end -->
+    
+   
+    
+  </div><!-- Container end -->
+</section><!-- Main container end --> 
+	  <footer id="footer" class="footer bg-overlay">
+    <div class="footer-main">
+      <div class="container">
+        <div class="row justify-content-between">
+          <div class="col-lg-6 col-md-6 footer-widget footer-about">
+			<figure class="figure">
+			  <img class="footer-logo" src="./Downloads_files/tef-footer-logo.png" alt="A generic square placeholder image with rounded corners in a figure.">
+			  <figcaption class="figure-caption">- is an organization with a mandate to improve quality of education in rural areas of Southern Punjab.</figcaption>
+			</figure>
+          </div><!-- Col end -->
+          <div class="col-lg-3 col-md-6 footer-widget mt-5 mt-md-0">
+            <h3 class="widget-title">Quick Links</h3>
+            <ul class="list-arrow">
+              <li><a href="https://tef.com.pk/under-maintenance.php">About Us</a></li>
+              <li><a href="https://tef.com.pk/under-maintenance.php">Our Initiatives</a></li>
+              <li><a href="https://tef.com.pk/under-maintenance.php">Social Gallery</a></li>
+              <li><a href="https://tef.com.pk/under-maintenance.php">Downloads</a></li>
+              <li><a href="https://tef.com.pk/under-maintenance.php">Contact Us</a></li>
+            </ul>
+          </div><!-- Col end --> 
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
+            <h3 class="widget-title">Secondary Links</h3>
+            <ul class="list-arrow">
+              <li><a href="https://tef.com.pk/sitemap">Site Map</a></li>
+              <li><a href="https://tef.com.pk/careers">Careers</a></li>
+              <li><a href="https://tef.com.pk/admin/login">Login</a></li>
+            </ul>
+          </div><!-- Col end -->
+        </div><!-- Row end -->
+      </div><!-- Container end -->
+    </div><!-- Footer main end -->
+    <div class="copyright">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <div class="copyright-info">
+                <span>© 2018 Tareen Education Foundation, P.O Box 54660, Lahore-Pakistan.</span>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="footer-menu text-center text-md-right">
+              <ul class="list-unstyled mb-0">
+                <li>Developer <a href="https://tef.com.pk/downloads#" data-toggle="modal" data-target="#">Muhammad Shakeel</a></li>
+              </ul>
+            </div>
+          </div>
+        </div><!-- Row end -->
+        <div id="back-to-top" data-spy="affix" data-offset-top="10" class="back-to-top position-fixed" style="display: none;">
+          <button class="btn btn-primary" title="Back to Top">
+            <i class="fa fa-angle-double-up"></i>
+          </button>
+        </div>
+      </div><!-- Container end -->
+    </div><!-- Copyright end -->
+  </footer><!-- Footer end -->
+
+  
+    <div class="container">
+  <!-- Modal -->
+  <div class="modal fade" id="about-developer" role="dialog">
+    <div class="modal-dialog modal-dialog-centered">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+        </div>
+        <div class="modal-body"> 
+        <table width="100%">
+        	<tbody><tr>
+            	<td><p><b>MUHAMMAD SHAKEEL</b><br>Website Engineer<br>Tareen Education Foundation<br>Contact (+92) 301 581 2804</p></td>
+                <td align="right"><img class="img-circle" src="./Downloads_files/Muhammad-Shakeel-Website-Developer.jpg" style="height:130px;border-radius:5%;"></td> 
+            </tr>
+        </tbody></table>
+          
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  
+</div>
+ 
+  </div>
+  
+  <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button type="button" id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
